@@ -3,9 +3,10 @@ Data preprocessing is a crucial step in the data analysis and machine learning p
 
 ## Table of Contents
 
-- #### introduction
-- [Tools and Languages Used](#ToolsandLanguageUsed)
-- [DataSet-Source](#DataSet-Source)
+- #### Introduction
+- #### Tools and Languages Used
+- #### DataSet-Source
+
 
 ### Explanation:
 
@@ -20,5 +21,5 @@ Data preprocessing is a crucial step in the data analysis and machine learning p
 - **Environment**: Jupyter Notebook
 - **Version Control**: Git
 3. **Kaggle**:
-  - [Movies Dataset on Kaggle](https://www.kaggle.com/datasets/danielgrijalvas/movies).
+  - [Dataset on Kaggle](https://www.kaggle.com/datasets/danielgrijalvas/movies).
 
